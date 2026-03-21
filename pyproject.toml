@@ -1,6 +1,6 @@
 [project]
 name = "alloyfyi"
-version = "0.1.0"
+version = "0.1.1"
 description = "Metal alloys and materials science API client — alloyfyi.com"
 readme = "README.md"
 license = "MIT"
@@ -40,6 +40,7 @@ all = ["alloyfyi[api,cli,mcp]"]
 
 [project.scripts]
 alloyfyi = "alloyfyi.cli:app"
+alloyfyi-mcp = "alloyfyi.mcp_server:main"
 
 [project.entry-points."mcp.servers"]
 alloyfyi = "alloyfyi.mcp_server:mcp"
