@@ -316,6 +316,17 @@ Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosyst
 | fyipedia | [PyPI](https://pypi.org/project/fyipedia/) | — | Unified CLI: `fyi alloy info stainless-steel` — [fyipedia.com](https://fyipedia.com/) |
 | fyipedia-mcp | [PyPI](https://pypi.org/project/fyipedia-mcp/) | — | Unified MCP hub for AI assistants — [fyipedia.com](https://fyipedia.com/) |
 
+## Embed Widget
+
+Embed [AlloyFYI](https://alloyfyi.com) widgets on any website with [alloyfyi-embed](https://widget.alloyfyi.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/alloyfyi-embed@1/dist/embed.min.js"></script>
+<div data-alloyfyi="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.alloyfyi.com)
+
 ## License
 
 MIT
