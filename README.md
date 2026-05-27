@@ -327,6 +327,15 @@ Embed [AlloyFYI](https://alloyfyi.com) widgets on any website with [alloyfyi-emb
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.alloyfyi.com)
 
+## Recently Updated (v0.1.2)
+
+Latest content state on [https://alloyfyi.com](https://alloyfyi.com):
+- [Homepage](https://alloyfyi.com)
+- [Developer documentation](https://alloyfyi.com/developers/)
+- [Sitemap (full content index)](https://alloyfyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
